@@ -1,0 +1,10 @@
+tqdm
+numpy
+pillow
+folium
+pygeoj
+patchify
+rasterio
+ipykernel
+matplotlib
+earthengine-api

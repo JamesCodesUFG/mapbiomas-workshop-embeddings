@@ -3,11 +3,9 @@ numpy
 pillow
 folium
 pygeoj
+pydrive
 patchify
 rasterio
 ipykernel
 matplotlib
 earthengine-api
-google-auth-httplib2
-google-auth-oauthlib
-google-api-python-client

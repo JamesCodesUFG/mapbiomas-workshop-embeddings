@@ -209,3 +209,7 @@ __marimo__/
 # Folders
 data/
 output/
+
+# Secrets
+settings.yaml
+credentials.json
